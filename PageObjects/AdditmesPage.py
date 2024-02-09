@@ -74,8 +74,8 @@ class AddItems:
         time.sleep(5)
         self.row = len(self.driver.find_elements(*AddItems.rows))
         self.col = len(self.driver.find_elements(*AddItems.cols))
-        print(self.row)
-        print(self.col)
+        # print(self.row)
+        # print(self.col)
         list = []
         new_list = []
         for i in range(1, self.row + 1):
@@ -88,9 +88,9 @@ class AddItems:
             if type(value) == str:
                 new_list.append(int(value))
         temp = new_list.sort()
-        print(temp)
-        print("cost price of each item =", new_list)
-        print(" summed up value of all items = ", sum(new_list))
+        # print(temp)
+        # print("cost price of each item =", new_list)
+        # print(" summed up value of all items = ", sum(new_list))
     '''def fetchRows (self):
         return len (self.driver.find_elements(By.XPATH, self.rows))
         # self.row=len (self.driver.find_elements(By.XPATH, self.rows))
@@ -132,15 +132,9 @@ class AddItems:
 
         self.driver.find_element(*AddItems.purchse).click()
     def fetchYourPurchase(self):
-       # print( self.driver.find_element(*AddItems.your_purchase).get_attribute("innerHTML"))
-        # self.purchess=self.driver.find_element(*AddItems.your_purchase).get_attribute("innerHTML")
-        # print(self.purchess)
-        return self.driver.find_element(*AddItems.your_purchase).get_attribute("innerHTML")
+       return self.driver.find_element(*AddItems.your_purchase).get_attribute("innerHTML")
     def msgSuccess(self):
-        # print(self.driver.find_element(*AddItems.success).get_attribute("innerHTML"))
-        # self.mgsuccs=self.driver.find_element(*AddItems.success).get_attribute("innerHTML")
-        # print(self.mgsuccs)
-        return self.driver.find_element(*AddItems.success).get_attribute("innerHTML")
+       return self.driver.find_element(*AddItems.success).get_attribute("innerHTML")
     def clickOk(self):
         # self.driver.find_element(By.XPATH,self.ok).click()
 

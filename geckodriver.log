@@ -11007,3 +11007,455 @@ console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resour
 console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile86tOEO\\search.json.mozlz4", (void 0)))
 [GPU 4540, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:556
+1707479666120	geckodriver	INFO	Listening on 127.0.0.1:49790
+1707479668028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49791" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileivVRcX"
+1707479676252	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileivVRcX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49791/devtools/browser/1790f2f4-b8c4-4f8b-a072-556cd84d2e67
+1707479719152	Marionette	INFO	Listening on port 49796
+1707479719611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1707479737921	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1707481663901	Marionette	INFO	Stopped listening on port 49796
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_UpdateChildScalars) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_UpdateChildKeyedScalars) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ShutdownConfirmedHP) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ShutdownConfirmedHP) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+v
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_UpdateChildKeyedScalars) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PBrowser::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PBrowser::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildKeyedHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildKeyedHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildKeyedHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildKeyedHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildKeyedHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PHttpChannel::Msg_DeletingChannel) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ShutdownConfirmedHP) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 2076, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:161","resource://gre/modules/XPCOMUtils.jsm:get:62","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1694","resource:///modules/BrowserGlue.jsm:BG_observe:1035","chrome://browser/content/browser.js:_delayedStartup:2135"]}] Barrier: profile-before-change
+1707481970559	geckodriver	INFO	Listening on 127.0.0.1:50341
+1707481972296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50342" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile6Bb4lm"
+1707481989791	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile6Bb4lm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50342/devtools/browser/bcb4646c-9e0b-4fb8-8fec-3590ff15dad9
+1707482066740	Marionette	INFO	Listening on port 50347
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1707482145391	geckodriver	INFO	Listening on 127.0.0.1:50454
+1707482147338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50455" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileruPgPs"
+1707482163334	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileruPgPs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50455/devtools/browser/0a1519c4-a7b2-4963-8053-8dcbb26f55e3
+1707482192536	Marionette	INFO	Listening on port 50460
+1707482193191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1707482222006	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1707484357337	Marionette	INFO	Stopped listening on port 50460
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_UpdateChildScalars) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_UpdateChildKeyedScalars) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildKeyedHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildKeyedHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_AccumulateChildHistograms) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: RunMessage(msgname=PContent::Msg_RecordDiscardedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ShutdownConfirmedHP) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_ShutdownConfirmedHP) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Recipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demoblaze.com"
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1707484296708	Marionette	INFO	Stopped listening on port 50814
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 996: Error: Connection is not open.
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":470,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:161","resource://gre/modules/XPCOMUtils.jsm:get:62","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1694","resource:///modules/BrowserGlue.jsm:BG_observe:1035","chrome://browser/content/browser.js:_delayedStartup:2135"]}] Barrier: profile-before-change

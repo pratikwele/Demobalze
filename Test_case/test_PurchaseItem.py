@@ -78,7 +78,8 @@ class Test_001():
         self.log.info(" Entering  year ")
         self.obj.clickPurchse()
         self.log.info(" Clcking on purchase button ")
-        if self.obj.fetchYourPurchase()=="Thank you for your purchase!":
+
+        if self.obj.msgSuccess()=="Thank you for your purchase!":
            self.log.info(" test_additem is passed ")
            assert True
         else :
